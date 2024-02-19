@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "deb2-200006",
+  "private_key_id": "6767fb00908a355bb5aefade0b41d9006d5f8e1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOTOTe+ecwPiOx\nyd4CIdfm13DGc2CJtQnDsznM6c3vNgpJw1wH9dd6BKmlj7pFWpvxngWVrp8s9aw8\nC+baiCRdic7miBR28y1jTBxq91r1fsCNZ82bKiqVvgHUEP1JLCu0fxCY331a0f3u\nMDXClxMSJBgNmGm1oXFjr4lDUUWIykNxwG6ZQdlN6MZ8i2qUjn+5ctR7BWlNRigH\n6/ulAXJmfat3R0/ETsw5m4jQ+xdcy7sSjh2rC8BqqL/5pd8lImLU6aLU3q7zkw+8\nzOe24ZDz5atL2bQW52kgLOqqYn+9t9OBgxEwNgsX65sMFB3lqpVhkyIittBfsoS4\nma45DxC7AgMBAAECggEAQaeVGyVbHy5Xe8hr4C/XHz8nQ/EKIyk7f021snIiOOPw\n6ELFMj9aIRoEx4zzUgkhIgcRbe6R9+QDuWRsRtYXBLHL5/Ac2zJPGo/pZ11rVD/P\nlfEYLS6BOQCsYko54aSuEBZ0OMK/iTzVXI15PoGH7zkPcpwz4DsN9BS0UXk28O4j\no9991QbAKfEYUkMh2InXU9261uKDK2NJHUmPSFrGAIrlL0pLsnZjgpFbVGju7EOP\nmQV2vCKL73C5z1q7zHizRMpj2QTrL/HqISC9G7jBL9BI3VJ+nZIZR0GhwpatHcwa\ngShDLqcs2NxSbSlxsb5PQSW6ME4YaOgANk/y+SDUSQKBgQDuPaQq+9FviYnLzkJm\nA2bjcIpxR3aLXgYHoaTsgR3ibyfTUv68grvp7Oy1FdeXnA0sAJcx1qpc6tbSUwGT\ntdlMdQRX/CM0ls51goDD5f9b1l0tb3+BQDsTdwP7wyiFDK6MbwgA6bF3mj3a5ejX\n9C8/wT4FZOgTK0wk4FzS/sgfRwKBgQDdrbt/w4fXjM2dRVYjMeAEfsDbO+/bGbm1\nCyiyyo7BrBWXzIF9fCT+pBBFpj64A8eCI3EpWiO/W8Z5OwQkEb0hKE+HXW4WZ3Ua\nO7wv1sCXB+NijkjxKMchd5YJf5ddKRYJ9/8EjgWrJIFwDhB7ECeTixYX1/wSF5An\nYVMeNMsE7QKBgGUC97dN28fpzeX+xwJP0PEAB4LuJOIEdJQJwk6QlCYssPsVxnIR\nEDGnxdklsKpUfPU6LuDvvn31CC5XCWUihka3mqbffeHPSyxhr8zfmLzMj+cyziH0\nJNgk7yhw355B+UQL053nd9pZKH7GWkot+1aRzYUl+oweIIPGKTVA14MDAoGAVH+F\nqgTJQfOM6LbmR5IaVvxN3QNywSyEKitvvv8Q/Wfv7yXn8gIhQ+MbxMDCxXfDU6rY\n1q9iUu3TsKA7SthsJDhuYCXP8cBL1c0RRZbxYGCEXyvnR+2IQgyIZ2R4OO2RVglu\n7riIFp1arXDe/VnCDC6HJF2S2v6aVzh0612qSV0CgYEA3OgDwoOuU5Zmkb6vSVlk\nsCuttErohITSBfKvX35xunIT8V+rPaJJSwtDKPGRF5uLKTblKyLCvPGrzrQcQFrC\nnX3q5fGExUYBQjuq2l4zxOnTFkhsCridiVaHFZBhce/uG0E11bafmNdU/C/uDnEJ\nMem1ee1S4vDYqFazNsEB5Vw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatree-loading-data-to-bigque@deb2-200006.iam.gserviceaccount.com",
+  "client_id": "116899519169131287881",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatree-loading-data-to-bigque%40deb2-200006.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
