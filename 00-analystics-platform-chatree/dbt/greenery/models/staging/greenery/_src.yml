@@ -1,0 +1,24 @@
+version: 2
+
+sources:
+  - name: greenery
+    schema: deb_bootcamp
+    database: deb2-200006
+
+    tables:
+      - name: users
+        description: Greenery users
+      - name: events
+        description: Greenery events
+      - name: addresses
+        description: User addresses
+      - name: Orders
+        description: Greenery Orders
+      - name: products
+        description: Greenery product
+      - name: order_items
+        description: Greenery order_items
+      - name: promos
+        description: Greenery promos
+
+      
